@@ -46,12 +46,5 @@ Visualization tools used:
 - Histograms, boxplots, heatmaps, pairplots
 - Libraries: `seaborn`, `matplotlib`
 
-## 🛠️ Tools & Libraries
 
-- Python 3.x
-- pandas, numpy
-- scikit-learn
-- seaborn, matplotlib
-
-## 📁 Project Structure
 
